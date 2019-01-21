@@ -345,6 +345,13 @@
 	item_state = "enclave_helmet"
 	armor = list("melee" = 50, "bullet" = 39, "laser" = 25, "energy" = 25, "bomb" = 39, "bio" = 0, "rad" = 50, "fire" = 0, "acid" = 20)
 
+/obj/item/clothing/head/helmet/arminius
+	name = "Mask of Arminius"
+	desc = "It bears a large jagged cut on the right side of the mask."
+	icon_state = "arminius"
+	item_state = "arminius"
+	armor = list("melee" = 25, "bullet" = 25, "laser" = 16, "energy" = 16, "bomb" = 25, "bio" = 0, "rad" = 0, "fire" = 0, "acid" = 0)
+
 //Legion
 /obj/item/clothing/head/helmet/f13/legion/legrecruit
 	name = "legion recruit helmet"
